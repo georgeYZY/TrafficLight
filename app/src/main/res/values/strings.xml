@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TrafficLight</string>
+    <string name="btnStart">開始遊戲</string>
+    <string name="btnEnd">結束系統</string>
+    <string name="xingming">紅綠燈(作者：靜宜大學資管系余永智)</string>
+</resources>
